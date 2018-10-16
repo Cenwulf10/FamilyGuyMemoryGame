@@ -1,0 +1,13 @@
+.wrapper {
+  margin-top:15px;
+  margin-bottom: 20px; 
+  background: blue;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  flex-wrap: wrap;
+  padding: 25px;
+  justify-content: center;
+  align-content: center;
+  border-radius: 8px; 
+}
